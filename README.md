@@ -1,4 +1,4 @@
 # HelloWorld
-### Student ID
-### Student Name
-### Email address
+### 201850851
+### 권채운
+### rnjscodns99@naver.com
